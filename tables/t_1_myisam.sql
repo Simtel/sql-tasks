@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS
+    t_1_myisam
